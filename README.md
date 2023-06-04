@@ -1,5 +1,13 @@
 # Product Details in Shopping Website with Filtering Functionality
 
+In this Shopping Cart Application we have Filtering and search functionality and It is mobile responsive website as well when you check with different devices.
+
+To clone my git Repo inside your local system you need to clone project
+git clone "PROJECT_URL"
+
+After that try to install dependancies with using npm install.
+npm install.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
