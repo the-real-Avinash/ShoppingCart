@@ -1,5 +1,7 @@
 # Product Details in Shopping Website with Filtering Functionality
 
+Live URL - https://shoppingcart-alobsozj3-the-real-avinash.vercel.app/
+
 In this Shopping Cart Application we have Filtering and search functionality and It is mobile responsive website as well when you check with different devices.
 
 To clone my git Repo inside your local system you need to clone project
@@ -7,6 +9,10 @@ git clone "PROJECT_URL"
 
 After that try to install dependancies with using npm install.
 npm install.
+
+When you use Mobile View the hamburger menu is on top rightmost corner for toggle and collapse.
+
+Here I am using Cloud hosted API to fetch Data from backend using fetch request to the frontend.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
