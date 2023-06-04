@@ -22,8 +22,10 @@ const Header = ({ fetchData }) => {
   return (
     <Navbar bg="light" expand="lg">
       <Container fluid>
-        <Navbar.Brand href="#">MyStore</Navbar.Brand>
-        <Navbar.Toggle aria-controls="navbarScroll" label="hi" />
+        <Navbar.Brand href="/" className="p-3">
+          MyStore
+        </Navbar.Brand>
+        <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav
             className="me-auto my-2 my-lg-0"
