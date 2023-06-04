@@ -10,7 +10,7 @@ const CardData = ({ products }) => {
           {products.map((product) => (
             <>
               <div className="col-sm-3">
-                <div className="card">
+                <div className="card mb-4">
                   <div className="card-body">
                     <CardGroup>
                       <Card>

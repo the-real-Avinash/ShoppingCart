@@ -38,7 +38,7 @@ const Header = ({ fetchData }) => {
                 }}
                 style={{
                   borderBottom:
-                    activeMenu == menu.name ? "1px solid black" : null,
+                    activeMenu === menu.name ? "1px solid black" : null,
                 }}
               >
                 {menu.name}
