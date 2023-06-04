@@ -14,6 +14,9 @@ When you use Mobile View the hamburger menu is on top rightmost corner for toggl
 
 Here I am using Cloud hosted API to fetch Data from backend using fetch request to the frontend.
 
+In Header menu we have a Categories for the Items , Like if you select shirts so all the shirts are appears on the page and so on..
+In search functionality when you type exact name of Item in search box like Superman and hit search it also showing data on page.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
